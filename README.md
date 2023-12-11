@@ -4,8 +4,8 @@ This Git repository comprises two Jupyter notebooks dedicated to running regress
 
 ## 1. sklearnRegression_xai.ipynb
 
-- **File:** `sklearnRegression_xai.ipynb`
-- This notebook focuses on regression tasks using scikit-learn. It runs several regression algorithms and then applies three XAI techniques: LIME, SHAP, and the DALEX XAI library. The goal is to provide insights and explanations for the regression model's predictions.
+- **File:** `sklearn_linear_regression_xai.ipynb`
+- This notebook focuses on regression tasks using scikit-learn. It runs the linear regression algorithm and then applies three XAI techniques: LIME, SHAP, and the DALEX XAI library. The goal is to provide insights and explanations for the regression model's predictions.
 
 ## 2. sklearn_classifier_xai.ipynb
 
